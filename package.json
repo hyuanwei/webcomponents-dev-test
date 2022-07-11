@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hyuanwei.plainjs-l5g5xlso",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve QrtB9pBO5ygzgXlimf7z --open"
+  }
+}
